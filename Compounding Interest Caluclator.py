@@ -1,4 +1,4 @@
-#Author: :3
+#Author: Ethan Boucher
 #Class: Py
 #Date: 4/11/2025
 #Assignment: Compounding Interest Calculator w/ loops
